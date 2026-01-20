@@ -23,7 +23,7 @@ race, religion, or sexual identity and orientation.
 ## Reporting
 
 If you experience or witness unacceptable behavior, please report it by contacting the maintainer
-at box@abordage.dev. All reports will be reviewed and handled appropriately.
+at <box@abordage.dev>. All reports will be reviewed and handled appropriately.
 
 ## Enforcement
 
@@ -33,15 +33,17 @@ For minor or first-time violations, the maintainer may issue a private warning e
 
 ### Ban
 
-For repeated violations or serious misconduct, the maintainer may permanently ban the individual from
-any interaction with the project.
+For repeated violations or serious misconduct, the maintainer may permanently ban the individual from any interaction
+with the project.
 
 ## Scope
 
-This Code of Conduct applies within project spaces (issues, pull requests, discussions) and when
-representing the project in public spaces.
+This Code of Conduct applies within project spaces (issues, pull requests, discussions) and when representing
+the project in public spaces.
 
 ## Attribution
 
-This Code of Conduct is adapted from the [Contributor Covenant](https://www.contributor-covenant.org),
-version 3.0, licensed under [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/).
+This Code of Conduct is adapted from the [Contributor Covenant], version 3.0, licensed under [CC BY-SA 4.0].
+
+[Contributor Covenant]: https://www.contributor-covenant.org
+[CC BY-SA 4.0]: https://creativecommons.org/licenses/by-sa/4.0/

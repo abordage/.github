@@ -13,8 +13,8 @@ and do not be upset if your submission is not accepted.
 
 ## First-time Contributors
 
-New to open source? Welcome! Look for issues labeled `good first issue` —
-they are beginner-friendly and a great way to start.
+New to open source? Welcome! Look for issues labeled `good first issue` — they are beginner-friendly
+and a great way to start.
 
 ## Before You Start
 
@@ -31,12 +31,11 @@ they are beginner-friendly and a great way to start.
 
 ## Commit Message Convention
 
-We use [Conventional Commits](https://www.conventionalcommits.org/) for clear history and automated changelog
-generation.
+We use [Conventional Commits] for clear history and automated changelog generation.
 
 ### Format
 
-```
+```text
 <type>: <description>
 
 [optional body]
@@ -134,3 +133,5 @@ Found a security vulnerability? Do not open a public issue.
 See [SECURITY.md](SECURITY.md) for responsible disclosure.
 
 Thank you for contributing!
+
+[Conventional Commits]: https://www.conventionalcommits.org/

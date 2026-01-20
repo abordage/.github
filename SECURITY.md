@@ -1,4 +1,9 @@
-# Reporting a Vulnerability
+# Security Policy
 
-If you've found a bug regarding security please mail box@abordage.dev instead of using the issue tracker. 
-All security vulnerabilities will be promptly addressed.
+## Reporting a Vulnerability
+
+If you discover a security vulnerability, please email <box@abordage.dev>.
+
+**Do not** open a public GitHub issue for security vulnerabilities.
+
+All reports will be reviewed and addressed promptly.

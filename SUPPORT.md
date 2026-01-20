@@ -1,6 +1,5 @@
 # Support
 
-If you use the software commercially and need elaborate support or need it urgently, we can offer this on a commercial basis.
-Please contact box@abordage.dev or visit the dedicated page with more information: https://abordage.dev
+For questions and bug reports, please open an issue.
 
-Thanks!
+For commercial or priority support, contact <box@abordage.dev> or visit <https://abordage.dev>.
